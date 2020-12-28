@@ -1,0 +1,26 @@
+body{
+    background-color:  blueviolet;
+}
+#child-main{
+    padding: 2%;
+    color: white;
+}
+input{
+    padding: 1%;
+    margin-left: 2%;
+    border-radius: 1rem;
+    border-block-color: white;
+    border: hidden;
+    
+}
+#butt{
+    width: 100px;
+    height: 50px;
+    border-radius: 1rem;
+    border-block-color: white;
+    border: hidden;
+}
+.fn{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
